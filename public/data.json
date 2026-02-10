@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1001,
+    "title": "Login issue",
+    "description": "User unable to login with correct credentials",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "12/03/2025"
+  },
+  {
+    "id": 1002,
+    "title": "Payment gateway error",
+    "description": "Payment fails during checkout process",
+    "customer": "Alice Smith",
+    "priority": "High",
+    "status": "In-Progress",
+    "createdAt": "25/06/2025"
+  },
+  {
+    "id": 1003,
+    "title": "Profile picture not updating",
+    "description": "Customer unable to upload a new profile picture",
+    "customer": "Michael Johnson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "07/01/2025"
+  },
+  {
+    "id": 1004,
+    "title": "Email not delivered",
+    "description": "Confirmation email not being received after signup",
+    "customer": "Sophia Lee",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "19/08/2025"
+  },
+  {
+    "id": 1005,
+    "title": "Mobile app crash",
+    "description": "App crashes on startup on Android devices",
+    "customer": "David Brown",
+    "priority": "High",
+    "status": "In-Progress",
+    "createdAt": "03/05/2025"
+  },
+  {
+    "id": 1006,
+    "title": "Slow website loading",
+    "description": "Homepage takes too long to load",
+    "customer": "Emma Wilson",
+    "priority": "Low",
+    "status": "In-Progress",
+    "createdAt": "28/02/2025"
+  },
+  {
+    "id": 1007,
+    "title": "Password reset not working",
+    "description": "Customer unable to reset password using email link",
+    "customer": "Chris Evans",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "15/07/2025"
+  },
+  {
+    "id": 1008,
+    "title": "Cart not updating",
+    "description": "Items added to cart do not appear in checkout",
+    "customer": "Olivia Martin",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "22/09/2025"
+  },
+  {
+    "id": 1009,
+    "title": "Subscription not renewed",
+    "description": "Auto-renewal of subscription failed",
+    "customer": "William Harris",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "11/04/2025"
+  },
+  {
+    "id": 1010,
+    "title": "Search results incorrect",
+    "description": "Search function returns irrelevant results",
+    "customer": "Sophia Garcia",
+    "priority": "Low",
+    "status": "In-Progress",
+    "createdAt": "30/12/2025"
+  }
+]
